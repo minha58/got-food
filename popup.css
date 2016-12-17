@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Arbutus');
+
+body {
+    background-image: url("http://i.giphy.com/HOTTX2YvcTMxq.gif");
+    font-family: "Arbutus";
+    background-size: 320px;
+    text-align: center;
+    font-size: 50px;
+    background-color: green;
+}
+p {
+    font-size: 25px;
+    
+    color: blue;
+    background-color: white;
+    
+}
+button{
+    font-size: 30px; 
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+    
+}
+a {
+    
+   color: yellow;
+   background-color: black;
+   border: solid black 1px;
+}

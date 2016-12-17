@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Arbutus');
+img {
+    width: 200px;
+    height: 210px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+body {
+    background-image: url("http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+    background-size: 1666px;
+    font-size: 40px;
+}
+
+iframe{
+    padding-top: 150px;
+    padding-right:100px;
+}
+h1 {
+    color: black;
+    text-align: right;
+    padding: 0px;
+    text-decoration: overline;
+    font-family: "Arbutus";
+    display: inline-block;
+    float:right;
+}
+
+input {
+    display: block;
+    padding-left:300px;
+    height: 40;
+    border: solid black 2px;
+}
+
+button {
+    font-size: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+a {
+    color: #466978;
+    border: solid black 1px;
+}
+
+#searchbutton {
+    float: right;
+    font-size: 13.5px;
+}
+
+#searchinput {
+    float: right;
+}
+
+#donate {
+    color: #466978;
+    margin: 0 auto;
+}
+  
+#para {
+    color: #E5E5E5;
+}
+
+#graph {
+    color: white;
+}
+
+#format {
+    color: white;
+}
+
+#hand-image {
+    float: left;
+}
+
+#stop-image {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+   float:right;
+}
+#under{
+    float:right;
+}
+#logo-image {
+    width: 110px;
+    border-radius: 190px;
+    height: 100px;
+    float:left;
+}
+
+.mytext {
+    float: left;
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
